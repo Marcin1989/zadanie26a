@@ -8,5 +8,5 @@ p.first,p.second,p.third {
 }
 
 p.fourth,p.fifth {
-    opacity: transparent;
+    opacity: 0,4;
 }
